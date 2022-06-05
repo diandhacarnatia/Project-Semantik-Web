@@ -1,0 +1,136 @@
+@prefix id: <https://thegreatburgersales.com/> .
+@prefix item: <https://thegreatburgersales.com/ns/item#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rid:Af-syntax-ns#> .
+
+#Users
+id:001
+    item:month             "January" ;
+    item:classicburger     "125" ;
+    item:cheeseburger      "347" ;
+    item:dblcheeseburger   "292" ;
+    item:nugget            "287" ;
+    item:onionrings        "154" ;
+    item:frenchfries       "294" ;
+    item:milkshake         "427" ;
+    item:coke              "385" .
+
+id:002
+    item:month             "February" ;
+    item:classicburger     "273" ;
+    item:cheeseburger      "175" ;
+    item:dblcheeseburger   "349" ;
+    item:nugget            "482" ;
+    item:onionrings        "432" ;
+    item:frenchfries       "521" ;
+    item:milkshake         "389" ;
+    item:coke              "423" .
+
+id:003
+    item:month             "March" ;
+    item:classicburger     "392" ;
+    item:cheeseburger      "427" ;
+    item:dblcheeseburger   "117" ;
+    item:nugget            "529" ;
+    item:onionrings        "628" ;
+    item:frenchfries       "329" ;
+    item:milkshake         "335" ;
+    item:coke              "512" .
+
+id:004
+    item:month             "April" ;
+    item:classicburger     "425" ;
+    item:cheeseburger      "231" ;
+    item:dblcheeseburger   "406" ;
+    item:nugget            "367" ;
+    item:onionrings        "529" ;
+    item:frenchfries       "195" ;
+    item:milkshake         "392" ;
+    item:coke              "582" .
+
+id:005
+    item:month             "May" ;
+    item:classicburger     "623" ;
+    item:cheeseburger      "249" ;
+    item:dblcheeseburger   "379" ;
+    item:nugget            "401" ;
+    item:onionrings        "283" ;
+    item:frenchfries       "642" ;
+    item:milkshake         "539" ;
+    item:coke              "481" .
+
+id:006
+    item:month             "June" ;
+    item:classicburger     "589" ;
+    item:cheeseburger      "439" ;
+    item:dblcheeseburger   "632" ;
+    item:nugget            "321" ;
+    item:onionrings        "653" ;
+    item:frenchfries       "276" ;
+    item:milkshake         "405" ;
+    item:coke              "361" .
+
+id:007
+    item:month             "July" ;
+    item:classicburger     "482" ;
+    item:cheeseburger      "614" ;
+    item:dblcheeseburger   "390" ;
+    item:nugget            "482" ;
+    item:onionrings        "521" ;
+    item:frenchfries       "127" ;
+    item:milkshake         "476" ;
+    item:coke              "639" .
+
+id:008
+    item:month             "August" ;
+    item:classicburger     "523" ;
+    item:cheeseburger      "479" ;
+    item:dblcheeseburger   "427" ;
+    item:nugget            "521" ;
+    item:onionrings        "478" ;
+    item:frenchfries       "290" ;
+    item:milkshake         "582" ;
+    item:coke              "367" .
+
+id:009
+    item:month             "September" ;
+    item:classicburger     "319" ;
+    item:cheeseburger      "529" ;
+    item:dblcheeseburger   "561" ;
+    item:nugget            "429" ;
+    item:onionrings        "418" ;
+    item:frenchfries       "312" ;
+    item:milkshake         "579" ;
+    item:coke              "451" .
+
+id:010
+    item:month             "October" ;
+    item:classicburger     "402" ;
+    item:cheeseburger      "378" ;
+    item:dblcheeseburger   "418" ;
+    item:nugget            "527" ;
+    item:onionrings        "381" ;
+    item:frenchfries       "537" ;
+    item:milkshake         "621" ;
+    item:coke              "445" .
+
+id:011
+    item:month             "November" ;
+    item:classicburger     "575" ;
+    item:cheeseburger      "247" ;
+    item:dblcheeseburger   "321" ;
+    item:nugget            "344" ;
+    item:onionrings        "365" ;
+    item:frenchfries       "328" ;
+    item:milkshake         "539" ;
+    item:coke              "382" .
+
+id:012
+    item:month             "December" ;
+    item:classicburger     "521" ;
+    item:cheeseburger      "428" ;
+    item:dblcheeseburger   "523" ;
+    item:nugget            "674" ;
+    item:onionrings        "492" ;
+    item:frenchfries       "627" ;
+    item:milkshake         "341" ;
+    item:coke              "539" .
